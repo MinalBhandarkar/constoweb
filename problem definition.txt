@@ -1,0 +1,21 @@
+1. Contso is a Multinational Company.
+
+2. This company have 12 offices all over the world.
+
+3. They wants to build a website.
+
+4. Their employees will use that website for getting customer's accounting related information.
+
+5. To access that information employees should have authorization.
+
+6. Employees Information maintained by admin who will host that website.
+
+7. customer's accounting information will also maintained by admin.
+
+8. If employee added or leave the job, then addition and deletion operation maintained by admin.
+
+9. New customer's will add their Accounting informaiton through website only.
+
+
+
+

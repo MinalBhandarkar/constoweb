@@ -1,0 +1,17 @@
+Functionalities:
+
+1. Add Employee Information.
+
+2. Add customer Accounting Information.
+
+3. validation of employee login.
+
+4. delete Employee if Employee leave the company.
+
+5. validation of Customer.
+
+6. fetch customers details.
+
+Non-Functionalities:
+
+1.
