@@ -2,11 +2,14 @@ var express = require('express');
 var app = express();
 
 app.get('/Emplist', function(req, res){
-	var emplist[
-				firstName:"Minal", lastName:Mudliyar, dept:"development"
+	var emplist=
+	[
+	{id: 1000, firstName:"Minal", lastName:"Mudliyar", dept:"development"},
+		{id: 3000, firstName:"Sneha", lastName:"Patil", dept:"development"},
+			{id: 4000, firstName:"Harshada", lastName:"Mane", dept:"development"}
 	];
 			  
-read.send(emplist);
+res.send(emplist);
 
 });
 app.listen(3000);
